@@ -1,19 +1,19 @@
 {
   "leaderboard": {
     "asdfadsfdsaf" : {
-      "team_name": "first team"
-      "rank": 1
+      "team_name": "first team",
+      "rank": 1,
       "average_rank": 123.2
     }, 
     "asdfaszcxv" : {
-      "team_name": "second team"
-      "rank": 2
+      "team_name": "second team",
+      "rank": 2,
       "average_rank": 1432
     }, 
     "zxcvzxc" : {
-      "team_name": "third team"
-      "rank": 3
+      "team_name": "third team",
+      "rank": 3,
       "average_rank": 5123
-    }, 
+    }
   }
 }
